@@ -40,7 +40,7 @@ If that doesn't work, [come chat with us](https://gitter.im/ng-book/ng-book  )!
 ## ngDemoApp
 
 
-##1st: [Demo](https://reyramos.github.io/ngDemoApp/) #master branch tries to demonstrate as close as possible to a real Production application with the following features.
+##1st: [Based on Demo](https://reyramos.github.io/ngDemoApp/) #master branch tries to demonstrate as close as possible to a real Production application with the following features.
 - HTTP request, call JSON service to load data onto DOM
 - Lazy loading routes, on large application it is necessary to load chunks when needed.
 - Loading multiple images, each patients is different from each user, and force browser to XHR request.
