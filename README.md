@@ -29,7 +29,7 @@ grunt serve
 I am using Grunt command to load modRewrite configuration to load the api/url to the localhost for http request
 
 
-Then visit [http://localhost:8080](http://localhost:8080) in your browser. You should see an application with the header `Angular 2 Simple Reddit`. 
+Then visit [http://localhost:9000](http://localhost:9000) in your browser. You should see an application with the header `AngularJS Simple Mobile Test Application`. 
 
 ## Getting Help
 
